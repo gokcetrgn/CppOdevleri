@@ -1,0 +1,15 @@
+Mickey 2 141
+Balto 4 272
+Doc 1 25
+Donald 1 110
+Doc 4 97
+Goofy 2 34
+Mickey 1 112
+Pluto 4 46
+Doc 2 71
+Pluto 1 285
+Mickey 3 156
+Donald 2 158
+Doc 3 156
+Pluto 2 56
+Mickey 4 89

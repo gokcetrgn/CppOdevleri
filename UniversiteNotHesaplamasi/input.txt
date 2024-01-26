@@ -1,0 +1,14 @@
+4 250
+Lisa Miller 890238 N 2
+Mathematics MTH345 4 A
+Physics PHY357 3 B
+Adam Smith 750210 N 3
+ComputerSci CSC478 3 B
+History HIS356 3 A
+DataScrutches COMP2002 3 B
+Pelin Yılmaz 405043 Y 3
+Novel N1253 4 A
+Poetry POE548 3 A
+Linguistics LNG043 3 B
+Gokcenaz Torgan 413606 N 1
+Math MTH345 4 A

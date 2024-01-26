@@ -1,0 +1,7 @@
+Student Name: Gokcenaz Torgan     
+Student ID: 413606              
+Number of courses enrolled: 1                   
+Course Name      Course No        Credits   Grade     
+Math                MTH345         4         -         
+WAITING FOR THE PAYMENT
+BILL: 1000

@@ -1,0 +1,4 @@
+Toplama isleminin sonucu: 14 5 11 10 
+Carpma isleminin sonucu:: 45 4 28 16 
+Tek sayilari tutan dizi: 5 7 
+Cift sayilari tutan dizi: 4 8 

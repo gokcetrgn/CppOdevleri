@@ -1,0 +1,8 @@
+Student Name: Lisa Miller         
+Student ID: 890238              
+Number of courses enrolled: 2                   
+Course Name      Course No        Credits   Grade     
+Mathematics         MTH345         4         -         
+Physics             PHY357         3         -         
+WAITING FOR THE PAYMENT
+BILL: 1750

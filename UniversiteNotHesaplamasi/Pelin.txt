@@ -1,0 +1,9 @@
+Student Name: Pelin Yılmaz       
+Student ID: 405043              
+Number of courses enrolled: 3                   
+Course Name      Course No        Credits   Grade     
+Linguistics         LNG043         3         B         
+Novel               N1253          4         A         
+Poetry              POE548         3         A         
+Total number of credits: 10
+Mid-Semester GPA: 3.7

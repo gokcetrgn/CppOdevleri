@@ -1,0 +1,9 @@
+Student Name: Adam Smith          
+Student ID: 750210              
+Number of courses enrolled: 3                   
+Course Name      Course No        Credits   Grade     
+DataScrutches       COMP2002       3         -         
+ComputerSci         CSC478         3         -         
+History             HIS356         3         -         
+WAITING FOR THE PAYMENT
+BILL: 2250
